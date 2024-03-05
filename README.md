@@ -1,1 +1,1 @@
-END to END ML Projrct
+END to END ML Project
